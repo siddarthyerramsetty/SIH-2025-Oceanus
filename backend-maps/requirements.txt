@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+tqdm
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+sqlalchemy-cockroachdb
+psycopg2-binary
